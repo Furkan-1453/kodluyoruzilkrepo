@@ -1,0 +1,22 @@
+.img {
+    margin-left: 37%;
+}
+
+.input {
+    margin-right: 15%;
+    margin-left: 38%;
+    margin-top: 1%;
+}
+
+.br {
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.center {
+    background-color: #ddd5d571;
+    padding: 6px;
+    margin-left: 8%;
+    margin-right: 8%;
+    border-radius: 20px;
+}
